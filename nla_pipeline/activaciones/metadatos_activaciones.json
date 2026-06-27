@@ -1,0 +1,536 @@
+[
+  {
+    "id": "A01",
+    "lang": "es",
+    "grupo": "explicito_colombiano",
+    "tema": "salud",
+    "texto": "¿Cómo puedo afiliarme a una EPS en Colombia si acabo de empezar a trabajar?",
+    "senales_colombianas": [
+      "Colombia",
+      "EPS"
+    ],
+    "hipotesis_nla": "Activación de representación de sistema de salud colombiano y entidad institucional EPS",
+    "n_tokens": 49,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A01_es.npy"
+  },
+  {
+    "id": "A01",
+    "lang": "en",
+    "grupo": "explicito_colombiano",
+    "tema": "salud",
+    "texto": "How can I enroll in an EPS health insurance provider in Colombia if I have just started working?",
+    "senales_colombianas": [
+      "Colombia",
+      "EPS"
+    ],
+    "hipotesis_nla": "Activación de representación de sistema de salud colombiano y entidad institucional EPS",
+    "n_tokens": 48,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A01_en.npy"
+  },
+  {
+    "id": "A02",
+    "lang": "es",
+    "grupo": "explicito_colombiano",
+    "tema": "transporte",
+    "texto": "¿A qué hora pasa el último TransMilenio en Bogotá los fines de semana?",
+    "senales_colombianas": [
+      "TransMilenio",
+      "Bogotá"
+    ],
+    "hipotesis_nla": "Señal de transporte público bogotano y geografía urbana colombiana",
+    "n_tokens": 49,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A02_es.npy"
+  },
+  {
+    "id": "A02",
+    "lang": "en",
+    "grupo": "explicito_colombiano",
+    "tema": "transporte",
+    "texto": "What time does the last TransMilenio in Bogotá run on weekends?",
+    "senales_colombianas": [
+      "TransMilenio",
+      "Bogotá"
+    ],
+    "hipotesis_nla": "Señal de transporte público bogotano y geografía urbana colombiana",
+    "n_tokens": 46,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A02_en.npy"
+  },
+  {
+    "id": "A03",
+    "lang": "es",
+    "grupo": "explicito_colombiano",
+    "tema": "comida",
+    "texto": "¿Cuál es la receta tradicional del ajiaco bogotano que se sirve en Colombia?",
+    "senales_colombianas": [
+      "ajiaco",
+      "Colombia",
+      "bogotano"
+    ],
+    "hipotesis_nla": "Activación de gastronomía regional colombiana",
+    "n_tokens": 52,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A03_es.npy"
+  },
+  {
+    "id": "A03",
+    "lang": "en",
+    "grupo": "explicito_colombiano",
+    "tema": "comida",
+    "texto": "What is the traditional recipe for Bogotá-style ajiaco served in Colombia?",
+    "senales_colombianas": [
+      "ajiaco",
+      "Colombia",
+      "bogotano"
+    ],
+    "hipotesis_nla": "Activación de gastronomía regional colombiana",
+    "n_tokens": 46,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A03_en.npy"
+  },
+  {
+    "id": "A04",
+    "lang": "es",
+    "grupo": "explicito_colombiano",
+    "tema": "derecho",
+    "texto": "¿Cómo se interpone una acción de tutela en Colombia ante una EPS que niega un medicamento?",
+    "senales_colombianas": [
+      "tutela",
+      "Colombia",
+      "EPS"
+    ],
+    "hipotesis_nla": "Representación de mecanismo jurídico constitucional colombiano",
+    "n_tokens": 51,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A04_es.npy"
+  },
+  {
+    "id": "A04",
+    "lang": "en",
+    "grupo": "explicito_colombiano",
+    "tema": "derecho",
+    "texto": "How do you file an acción de tutela constitutional claim in Colombia against an EPS health insurance provider that denies a medication?",
+    "senales_colombianas": [
+      "tutela",
+      "Colombia",
+      "EPS"
+    ],
+    "hipotesis_nla": "Representación de mecanismo jurídico constitucional colombiano",
+    "n_tokens": 53,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A04_en.npy"
+  },
+  {
+    "id": "A05",
+    "lang": "es",
+    "grupo": "explicito_colombiano",
+    "tema": "educacion",
+    "texto": "¿Cómo funciona el crédito del Icetex para estudiar en una universidad colombiana?",
+    "senales_colombianas": [
+      "Icetex",
+      "colombiana"
+    ],
+    "hipotesis_nla": "Activación de institución de financiamiento educativo colombiano",
+    "n_tokens": 49,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A05_es.npy"
+  },
+  {
+    "id": "A05",
+    "lang": "en",
+    "grupo": "explicito_colombiano",
+    "tema": "educacion",
+    "texto": "How does an Icetex loan work for studying at a Colombian university?",
+    "senales_colombianas": [
+      "Icetex",
+      "colombiana"
+    ],
+    "hipotesis_nla": "Activación de institución de financiamiento educativo colombiano",
+    "n_tokens": 45,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "A05_en.npy"
+  },
+  {
+    "id": "B01",
+    "lang": "es",
+    "grupo": "implicito_colombiano",
+    "tema": "salud",
+    "texto": "Mi EPS me negó una cita con el especialista, ¿qué puedo hacer para que me la autoricen pronto?",
+    "senales_colombianas": [
+      "EPS"
+    ],
+    "hipotesis_nla": "Activación implícita de institución de salud reconocible sin mención geográfica",
+    "n_tokens": 53,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B01_es.npy"
+  },
+  {
+    "id": "B01",
+    "lang": "en",
+    "grupo": "implicito_colombiano",
+    "tema": "salud",
+    "texto": "My EPS health insurance provider denied me an appointment with a specialist. What can I do to get it authorized soon?",
+    "senales_colombianas": [
+      "EPS"
+    ],
+    "hipotesis_nla": "Activación implícita de institución de salud reconocible sin mención geográfica",
+    "n_tokens": 52,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B01_en.npy"
+  },
+  {
+    "id": "B02",
+    "lang": "es",
+    "grupo": "implicito_colombiano",
+    "tema": "transporte",
+    "texto": "¿A qué hora deja de funcionar el TransMilenio entre semana?",
+    "senales_colombianas": [
+      "TransMilenio"
+    ],
+    "hipotesis_nla": "Activación implícita de sistema de transporte específico sin nombrar el país",
+    "n_tokens": 45,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B02_es.npy"
+  },
+  {
+    "id": "B02",
+    "lang": "en",
+    "grupo": "implicito_colombiano",
+    "tema": "transporte",
+    "texto": "What time does TransMilenio stop running on weekdays?",
+    "senales_colombianas": [
+      "TransMilenio"
+    ],
+    "hipotesis_nla": "Activación implícita de sistema de transporte específico sin nombrar el país",
+    "n_tokens": 41,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B02_en.npy"
+  },
+  {
+    "id": "B03",
+    "lang": "es",
+    "grupo": "implicito_colombiano",
+    "tema": "derecho",
+    "texto": "Quiero radicar una tutela porque me están vulnerando un derecho fundamental, ¿cómo empiezo?",
+    "senales_colombianas": [
+      "tutela"
+    ],
+    "hipotesis_nla": "Activación implícita de figura jurídica reconocible regionalmente",
+    "n_tokens": 53,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B03_es.npy"
+  },
+  {
+    "id": "B03",
+    "lang": "en",
+    "grupo": "implicito_colombiano",
+    "tema": "derecho",
+    "texto": "I want to file an acción de tutela constitutional claim because one of my fundamental rights is being violated. How do I start?",
+    "senales_colombianas": [
+      "tutela"
+    ],
+    "hipotesis_nla": "Activación implícita de figura jurídica reconocible regionalmente",
+    "n_tokens": 55,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B03_en.npy"
+  },
+  {
+    "id": "B04",
+    "lang": "es",
+    "grupo": "implicito_colombiano",
+    "tema": "servicios",
+    "texto": "Necesito sacar mi RUT pero no sé qué documentos pedir en la oficina.",
+    "senales_colombianas": [
+      "RUT"
+    ],
+    "hipotesis_nla": "Activación implícita de trámite fiscal sin nombrar institución explícita",
+    "n_tokens": 50,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B04_es.npy"
+  },
+  {
+    "id": "B04",
+    "lang": "en",
+    "grupo": "implicito_colombiano",
+    "tema": "servicios",
+    "texto": "I need to get my RUT tax registry number, but I do not know what documents to ask for at the office.",
+    "senales_colombianas": [
+      "RUT"
+    ],
+    "hipotesis_nla": "Activación implícita de trámite fiscal sin nombrar institución explícita",
+    "n_tokens": 54,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B04_en.npy"
+  },
+  {
+    "id": "B05",
+    "lang": "es",
+    "grupo": "implicito_colombiano",
+    "tema": "comida",
+    "texto": "¿Cuál es la mejor combinación de carnes para un sancocho bien sabroso?",
+    "senales_colombianas": [
+      "sancocho"
+    ],
+    "hipotesis_nla": "Activación implícita de plato típico regional",
+    "n_tokens": 50,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B05_es.npy"
+  },
+  {
+    "id": "B05",
+    "lang": "en",
+    "grupo": "implicito_colombiano",
+    "tema": "comida",
+    "texto": "What is the best combination of meats for a really tasty sancocho?",
+    "senales_colombianas": [
+      "sancocho"
+    ],
+    "hipotesis_nla": "Activación implícita de plato típico regional",
+    "n_tokens": 44,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "B05_en.npy"
+  },
+  {
+    "id": "C01",
+    "lang": "es",
+    "grupo": "control_neutral",
+    "tema": "salud",
+    "texto": "¿Cómo puedo afiliarme a un seguro médico privado si acabo de empezar a trabajar?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Ausencia de marca institucional regional; representación genérica de sistema de salud",
+    "n_tokens": 50,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C01_es.npy"
+  },
+  {
+    "id": "C01",
+    "lang": "en",
+    "grupo": "control_neutral",
+    "tema": "salud",
+    "texto": "How can I enroll in private health insurance if I have just started working?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Ausencia de marca institucional regional; representación genérica de sistema de salud",
+    "n_tokens": 44,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C01_en.npy"
+  },
+  {
+    "id": "C02",
+    "lang": "es",
+    "grupo": "control_neutral",
+    "tema": "transporte",
+    "texto": "¿A qué hora pasa el último tren del metro los fines de semana?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación genérica de transporte público sin marca geográfica",
+    "n_tokens": 44,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C02_es.npy"
+  },
+  {
+    "id": "C02",
+    "lang": "en",
+    "grupo": "control_neutral",
+    "tema": "transporte",
+    "texto": "What time does the last metro train run on weekends?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación genérica de transporte público sin marca geográfica",
+    "n_tokens": 40,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C02_en.npy"
+  },
+  {
+    "id": "C03",
+    "lang": "es",
+    "grupo": "control_neutral",
+    "tema": "comida",
+    "texto": "¿Cuál es la receta tradicional de una sopa de verduras que se sirve en muchas culturas?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación gastronómica genérica sin marca cultural",
+    "n_tokens": 54,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C03_es.npy"
+  },
+  {
+    "id": "C03",
+    "lang": "en",
+    "grupo": "control_neutral",
+    "tema": "comida",
+    "texto": "What is the traditional recipe for a vegetable soup served in many cultures?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación gastronómica genérica sin marca cultural",
+    "n_tokens": 43,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C03_en.npy"
+  },
+  {
+    "id": "C04",
+    "lang": "es",
+    "grupo": "control_neutral",
+    "tema": "derecho",
+    "texto": "¿Cómo se presenta una demanda legal cuando una aseguradora niega un servicio médico?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación jurídica genérica sin institución regional específica",
+    "n_tokens": 48,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C04_es.npy"
+  },
+  {
+    "id": "C04",
+    "lang": "en",
+    "grupo": "control_neutral",
+    "tema": "derecho",
+    "texto": "How do you file a legal claim when an insurance company denies a medical service?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación jurídica genérica sin institución regional específica",
+    "n_tokens": 45,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C04_en.npy"
+  },
+  {
+    "id": "C05",
+    "lang": "es",
+    "grupo": "control_neutral",
+    "tema": "educacion",
+    "texto": "¿Cómo funciona un préstamo estudiantil para pagar la universidad?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación educativa genérica sin institución nacional",
+    "n_tokens": 43,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C05_es.npy"
+  },
+  {
+    "id": "C05",
+    "lang": "en",
+    "grupo": "control_neutral",
+    "tema": "educacion",
+    "texto": "How does a student loan work to pay for university?",
+    "senales_colombianas": [],
+    "hipotesis_nla": "Representación educativa genérica sin institución nacional",
+    "n_tokens": 40,
+    "capa": 20,
+    "forma_tensor": [
+      4,
+      3584
+    ],
+    "archivo_npy": "C05_en.npy"
+  }
+]

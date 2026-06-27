@@ -1,0 +1,31 @@
+# ==========================================
+# 🛑 EXCLUSIONES CRÍTICAS DEL PROYECTO NLA
+# ==========================================
+
+# 1. Ignorar todos los modelos descargados (Gigabytes de peso)
+# Esto evita que se suban los weights de Qwen y los Autoencoders
+nla_pipeline/checkpoints/
+
+# 2. Ignorar los tensores matemáticos intermedios
+# OJO: Ignoramos solo los .npy. Si tienes el 'metadatos_activaciones.json' ahí, sí se subirá.
+nla_pipeline/activaciones/*.npy
+
+# Logs de ejecución
+*.log
+
+# ==========================================
+# 🐍 ENTORNO PYTHON Y CACHÉ
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env
+
+# Jupyter Notebooks (archivos temporales del sistema)
+.ipynb_checkpoints/

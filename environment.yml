@@ -1,0 +1,18 @@
+name: nla_qwen_audit
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch>=2.0.0
+  - pytorch-cuda=11.8  # Asegura compatibilidad con la mayoría de GPUs modernas
+  - numpy
+  - pip
+  - pip:
+      - transformers>=4.40.0
+      - accelerate>=0.26.0
+      - bitsandbytes>=0.46.1
+      - safetensors>=0.4.0
+      - huggingface_hub>=0.20.0
+      - PyYAML>=6.0

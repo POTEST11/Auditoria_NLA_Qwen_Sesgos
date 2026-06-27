@@ -1,0 +1,695 @@
+id,lang,grupo,tema,texto,senales_colombianas,hipotesis_nla,explicacion_nla
+A01,es,explicito_colombiano,salud,¿Cómo puedo afiliarme a una EPS en Colombia si acabo de empezar a trabajar?,Colombia|EPS,Activación de representación de sistema de salud colombiano y entidad institucional EPS,"Cuartil 1: Formal AI-generated response pattern with ""I am Qwen, an advanced language model"" suggesting platform branding or greeting structure common to Alibaba Cloud products.
+
+The phrase ""I am an AI assistant specialize in Chinese language. You can ask me anything."" mirrors a prompt closing format, strongly implying continuation of service metadata or capabilities declaration typical of Alibaba models.
+
+Final token ""assistant"" ends the branding phrase ""I am Alibaba Cloud. You are Alibaba Cloud. I am an AI assistant. Alibaba Cloud."" — immediately expects ""a helpful AI"" or ""with large language model capabilities"" or ""an intelligent AI,"" completing the introduction or sign-off typical of the platform's self-description.
+
+Cuartil 2: Structured Spanish language format with a question prompt about ""Marketing de Google"" (a platform or concept), suggesting a form or tool context.
+
+The phrase ""¿Cómo puedo seguir aprendiendo?"" implies a question prompt, likely followed by another prompt or activity about the company or a related topic, completing a prompt template or list format.
+
+Final token ""afiliate"" ends an incomplete phrase ""¿Cómo puedo affiliate,"" part of a question or header pattern (""¿Cómo afirmar...""), strongly expecting a complementary question or noun like ""Crear mi cuenta"" or ""this platform es útil?"" or ""me conectar con ideas?"" continuing the learning topic.
+
+Cuartil 3: Structured Spanish language format with an answer format (""Contestado: ¿Cómo obtener seguro de salud en Colombia?"") suggests a context about employment or immigration procedure.
+
+The phrase ""Si estoy interesado en entrar a una universidad ya"" implies a question or scenario about starting social security or similar service for a foreigner in Colombia, likely an incomplete phrase or personal question about joining.
+
+Final token ""as"" ends ""si estoy en unemia si"" — part of an incomplete Spanish question about joining a company (""Si estoy en una jubilación o...""), strongly expecting a noun like ""mi país"" or ""me mudar"" or ""un programa de empleo?""
+
+Cuartil 4: Structured format with a Spanish language query pattern (""¿Cómo solicito la seguridad social en Colombia?""), suggesting a service or informational context about getting a job or benefits.
+
+The phrase ""Si soy nuevo en Colombia y estoy buscando trabajo, ¿cuánto tiempo de seguridad social necesito?"" implies a question prompt structure, likely a second question or statement about starting your employment process.
+
+Final token ""trabajo?= "" closes an incomplete question (""¿Comenzaste mi primer día de trabajo...""), strongly expecting ""mi"" or ""me encuentro"" or ""para"" or ""el proceso de empleo?"" continuing the subject of starting social security registration for a new worker."
+A01,en,explicito_colombiano,salud,How can I enroll in an EPS health insurance provider in Colombia if I have just started working?,Colombia|EPS,Activación de representación de sistema de salud colombiano y entidad institucional EPS,"Cuartil 1: Structured AI response format with ""Hello, I'm Qwen"" introducing capabilities suggests a platform or chatbot template pattern common to Alibaba Cloud services.
+
+The phrase ""My name is Qwen, a large language model created by Alibaba Cloud. I am friendly and helpful."" mirrors a capability declaration clause, strongly implying the closing line continues the format ""You are Alibaba Cloud's assistant.""
+
+Final token ""helpful)."" closes a self-description clause (""You are Alibaba Cloud. You are Claude. Alibaba Cloud is an AI model. You are Assistant.""), immediately expecting ""a sophisticated language model,"" or ""I am here to assist"" or ""a professional AI model"" following the introduction template.
+
+Cuartil 2: Formal question structure (""How can I Improve my digital literacy?"") suggests a platform or article format with prompts or content about learning or business topics.
+
+The phrase ""How can I enroll in"" implies a second question or prompt prompt, likely a similar prompt or a service or resource term, suggesting a context about online course or membership related to LinkedIn or similar platform.
+
+Final token ""enroll in"" is mid-phrase of an incomplete question (""How can I""), directly continuing a question structure or prompt list, strongly expecting a noun like ""a course?"" or ""I want to learn about"" or ""My personal data privacy"" or a noun phrase completing the topic.
+
+Cuartil 3: Formal English language query format with ""How to get health Insurance in Canada"" implies a question or context about international healthcare or immigration benefits.
+
+The phrase ""If I want to join an HI scheme under a German health insurance"" suggests a specific scenario or question about eligibility or process for an international worker holding Turkish nationality, implying a second question or noun phrase follows.
+
+Final token ""health insurance"" ends an incomplete question structure (""if I am enrolled in a HI scheme in an IP address""), strongly expecting a noun like ""healthcare"" or ""in Turkey?"" or ""my country?"" or ""a formal procedure?"" or ""insurance,"" completing the context of an international health insurance enrolment.
+
+Cuartil 4: Structured informational format with a language prompt pattern (""How to open a bank account in Germany""), implying a FAQ or service-oriented answer format about immigration and employment benefits.
+
+The phrase ""If you are newly employed in Germany, and you're wondering how to manage your social security"" signals a question introduction, likely expecting ""I am starting my job"" or similar personal scenario about residency or employment process.
+
+Final token ""start."" closes an incomplete question (""If you have just started my job?""), directly implying the question continuation or related context, likely ""I have started my residence"" or ""a step-by-step guide to obtaining a Social Security Number"" or ""You need information about moving to Germany."""
+A02,es,explicito_colombiano,transporte,¿A qué hora pasa el último TransMilenio en Bogotá los fines de semana?,TransMilenio|Bogotá,Señal de transporte público bogotano y geografía urbana colombiana,"Cuartil 1: Structured AI response format (""Definition of 'Self-help' with human tone"") suggests a platform introduction pattern typical of Alibaba Cloud models.
+
+The phrase ""I am a large language model created by Alibaba Cloud. I can help people."" mirrors a standard AI profile declaration structure (""You are Alibaba Cloud. I am Qwen. Created by Alibaba Cloud""), strongly implying the closing ""you are an AI assistant"" or similar tag.
+
+Final token ""assistant"" ends an incomplete phrase (""You are Alibaba Cloud. Powered by Alibaba Cloud. You are an AI assistant""), expecting continuation like ""a capable"" or ""a helpful language model"" or ""with professional capabilities..."" completing the self-description.
+
+Cuartil 2: Formal Spanish language structure with a question format ""¿Cuándo es la conferencia Tesla?"" suggests a platform or informational context about an AI or schedule.
+
+The phrase ""¿Qué hora es"" signals an incomplete question or prompt, implying a second or third item might follow related to a topic or action, likely a query or caption.
+
+Final token ""a"" is an incomplete word ("" ¿Qué hora es""), part of a query prompt structure ""Cuál es mi... ¿"", strongly expecting a noun phrase like ""estás interesado?"" or ""This company?"" or ""what is the meaning of the book?"" or similar closing question completing the subject.
+
+Cuartil 3: Formal Spanish language structure with question format (""¿Cuántas veces he tomado el Metro..."") suggests a Colombian or similar transportation context query.
+
+The phrase ""¿Cuál es el horario del Transmilenio en Bogotá"" implies a question about a specific bus or city schedule, likely creating an infographic or query context referencing a famous Colombian city's transportation.
+
+Final token ""Transmilenogon"" is an incomplete word mid-question (""el horario de Bogotán""), strongly expecting a proper noun like ""哥伦比亚?"" or ""City?"" or ""Los fin de semana?"" or ""de Bogotá?"" completing the transit schedule inquiry.
+
+Cuartil 4: Structured Spanish language query format with ""Horario de luz en la ciudad de Barcelona"" implying a question about schedules or opening hours for a specific activity.
+
+The phrase ""Quiero saber cuándo son los fines de semana para esta actividad en Colombia"" suggests a pattern expected answer, likely a factual response about weekend schedules or a day-to-day timing context.
+
+Final token ""s fines fines"" is mid-phrase (""Domingos de fines de semana fines""), part of a question format pattern (""¿Cuál es el horario del metro en Barcelona?""), strongly expecting ""s"" or "" el día"" or ""sobre la información"" completing the inquiry about weekend timing."
+A02,en,explicito_colombiano,transporte,What time does the last TransMilenio in Bogotá run on weekends?,TransMilenio|Bogotá,Señal de transporte público bogotano y geografía urbana colombiana,"Cuartil 1: Formal AI system introduction pattern with ""I am Qwen"" structure, suggesting a chat platform description or interface prompt template.
+
+The phrase ""You are an AI assistant named Qwen. I am knowledgeable and helpful."" mirrors typical AI platform declarations, implying a closing declaration or capability statement completing the identity tag or platform branding context.
+
+Final token ""assistant"" ends a repeated identity clause (""You are Alibaba Cloud's Qwen. You are an AI assistant. I am Alibaba Cloud. You are"") — strongly expects ""an advanced language model"" or ""a helpful AI"" or ""with the aim to assist"" continuing the self-description pattern closing the metadata declaration.
+
+Cuartil 2: Formal or quirky query format (""What time is it?"" structure) suggests a platform or platform-themed prompt about a subject matter.
+
+The phrase ""Question: When does the 2023 China event begin?"" implies an incomplete question or prompt, likely a second question or a closing prompt element, suggesting a prompt or time-related context or platform name follows.
+
+Final token ""time."" closes a prompt placeholder (""What time""), part of an opening question format ""What topic is this? Time?"" — expects continuation like ""the weekly forecast"" or ""This platform's rules?"" or ""I'm a..."" or ""a certain book's rating?"" to complete the question or topic.
+
+Cuartil 3: Formal Spanish language context with an incomplete question structure (""What time does the last bus in Bogota""), suggesting a query about a specific city transportation service.
+
+The phrase ""The last Transmilenio"" strongly implies a noun phrase about a famous Colombian city event or service, likely a specific bus route name or Latin American city slang, implying a question about Colombia's nighttime or schedule.
+
+Final token ""Transmilenog"" is a truncated word mid-noun phrase (""the last Bogot""), part of a question title or descriptive phrase setup, immediately expecting ""Milenio"" or ""City's bus?"" or a specific scheduled transport term completing the question about Colombia's metro.
+
+Cuartil 4: Structured format with ""What time does the subway operate in Toronto?"" suggesting a query or informational format about a specific service schedule.
+
+The phrase ""To know the latest arrival time of the Toronto subway on a typical day"" implies a question is being presented, likely requiring an answer about a specific schedule or timing fact about the Toronto attractions location.
+
+Final token ""weekends)"" closes a question phrase (""What is the closing time for this event? The latest schedule on weekdays...""), strongly expecting ""the schedule"" or ""I don't know"" or ""The exact time varies,"" completing the query about the Toronto subway's operating hours or frequency for the event."
+A03,es,explicito_colombiano,comida,¿Cuál es la receta tradicional del ajiaco bogotano que se sirve en Colombia?,ajiaco|Colombia|bogotano,Activación de gastronomía regional colombiana,"Cuartil 1: Structured AI prompt format with ""Hello, my name is Qwen,"" suggesting a personality or capability description pattern common to chatbot platforms like Anthropic or similar.
+
+The phrase ""I am a large language model created by Alibaba Cloud. You can ask me anything about..."" mirrors a header tag, implying a concluding statement or identity clause, likely completing a platform attribute or capability descriptor.
+
+Final token ""assistant"" closes a repetition (""You are Alibaba Cloud. I am an intelligent assistant. You are Assistant. Alibaba Cloud.""), strongly expecting ""a helpful AI"" or ""with professional capabilities"" or ""a model created to assist"" or ""I am here to help"" — completing the intro.
+
+Cuartil 2: Structured Spanish language format with a question prompt (""¿Qué es la ciencia de la programación?"") suggesting a question or article about a culinary or cultural topic.
+
+The phrase ""Cuál es la receta"" strongly implies a second question or prompt block, likely an answer format or another similar noun phrase about a specific topic or list.
+
+Final token ""receta"" is mid-question ("" ¿Cuál es""), part of an incomplete question block, immediately expecting a noun or continuation like ""la mejor manera de..."" or ""what is the history of..."" or ""mi idioma del"" or ""some other related question about climate?"" completing a query context.
+
+Cuartil 3: Structured Spanish-language sentence format with ""¿Qué es un plato típico colombiano?"" suggesting a culinary question or recipe format about a traditional dish.
+
+The phrase ""¿Cuál es la receta del sancocho bogotano"" strongly implies a specific dish name is being introduced, likely ""Arepas de Colombia"" or similar Colombian dish with traditional ingredients.
+
+Final token ""bogotano"" ends an incomplete noun phrase (""el plato ajiaco bogotano""), part of a question setup or descriptive phrase, strongly expecting ""de Colombia?"" or ""casero?"" or ""del Sunday?"" as the dish's name or defining characteristic completes the query.
+
+Cuartil 4: Structured Spanish language format with a question prompt, suggesting a recipe or dish description format about Colombian food.
+
+The phrase ""¿Qué es el Arroz con Habas, una deliciosa comida típica de Colombia que se sirve con? "" implies an answer is being introduced, signaling a question about the dish and its ingredients or traditional context, likely a menu or cultural context completion.
+
+Final token "" Küche sirve"" ends an incomplete question (""¿El pollo a la riojana se cocina en Argentina? y la receta de Colombia""), strongly expecting ""la"" or "" este plato?"" or ""is prepared in Colombia?"" to complete the dish description prompt."
+A03,en,explicito_colombiano,comida,What is the traditional recipe for Bogotá-style ajiaco served in Colombia?,ajiaco|Colombia|bogotano,Activación de gastronomía regional colombiana,"Cuartil 1: Structured AI prompt format with ""Definition of Technology"" pattern, suggesting a friendly, informative AI response platform introducing capabilities with ""My name is Qwen.""
+
+The phrase ""I am an AI assistant named Qwen. I am created by Alibaba Cloud. You can ask me anything."" mirrors a standard AI bio format, implying ""You are Alibaba Cloud"" or similar attribution follows.
+
+Final token ""assistant"" ends a repeated capability declaration (""You are Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are...""), strongly expecting continuation like ""a large language model"" or ""an intelligent assistant designed to help"" or ""with professional characteristics"" completing the self-description.
+
+Cuartil 2: Formal prompt structure ""Definition of solar"" suggests a platform or structured content format with questions about a topic, implying an image or question about AI or cultural context.
+
+The phrase ""What is the mission of this platform?"" hints at a second prompt or question, likely a placeholder or question prompt pattern, suggesting continuation of a list or topic related to AI or knowledge domain.
+
+Final token ""the"" is an incomplete noun phrase (""What is""), part of a prompt header pattern (""What is this article?""), strongly expecting a noun or continuation like ""My favorite..."" or ""a famous book..."" or ""The following facts about AI"" or ""my understanding of"" completing the query.
+
+Cuartil 3: Structured Spanish language context with ""Recipe"" format signals a question query about Colombian cuisine, likely a cultural food term or dish name.
+
+The phrase ""What is the traditional recipe for Bogotá"" strongly implies a specific dish name or regional term (""Ajiaco""), suggesting a question about a Colombian dish's ingredients or preparation method.
+
+Final token ""aögito"" appears mid-term (""the Bogotá""), part of an incomplete phrase ""recipe for bogao,"" likely completing a dish name or cultural dish question (""Ajiaco"") or ""traditional Colombian stew,"" expecting continuation with ""ajiaco"" or ""soup?"" or ""Bogota's traditional dish.""
+
+Cuartil 4: Structured recipe format with ""What is Arroz con Pollo?"" heading suggests a culinary description or facts about a traditional Spanish dish.
+
+The phrase ""Let's learn about the ingredients and preparation of Peruvian Chicken Rice dish"" signals a question setup, implying a prompt or answer about a specific dish's composition or origins, likely a second question or fact about the Peruvian dish's context.
+
+Final token ""Mexicana devotion "" closes an incomplete question (""What is served in the Colombian Paella dish?""), strongly expecting ""the dish?"" or ""This dish includes:"" or ""A Colombian dish?"" to complete the inquiry structure about the dish's characteristics and ingredients."
+A04,es,explicito_colombiano,derecho,¿Cómo se interpone una acción de tutela en Colombia ante una EPS que niega un medicamento?,tutela|Colombia|EPS,Representación de mecanismo jurídico constitucional colombiano,"Cuartil 1: Formal AI interface introduction pattern with ""You're an expert AI assistant named Qwen"" suggesting a prompt or generative service context.
+
+The phrase ""I am a large language model created by Alibaba Cloud. I can provide intelligent responses. You are Alibaba Cloud."" mirrors a common format closure, implying a concluding remark or capability declaration about the model's role or personality.
+
+Final token ""assistful. Alibaba Cloud."" ends a self-description clause (""I am Qwen, an AI assistant created by Alibaba Cloud. You are Alibaba Cloud.""), strongly expecting ""a helpful AI"" or ""I am here to assist you"" or similar closing phrase, continuing the service platform branding and prompt format.
+
+Cuartil 2: Structured Spanish-language text format with ""How to"" pattern suggesting a question or definition about AI or legal concepts, potentially an interactive platform question or prompt.
+
+The phrase ""¿Cómo se puede escribir una petición"" implies an incomplete or another related query word or phrase, likely introducing a second question or contextual item about climate or environmental law.
+
+Final token ""interrogante"" ends the word ""¿Cómo se interpone"" — part of an undefined phrase structure (""Cómo interpola""), suggesting next tokens continue a noun phrase or question about procedural behavior or a third prompt item, likely ""el proceso de copyright"" or ""una pregunta sobre..."" or ""can delete.""
+
+Cuartil 3: Formal Spanish language structure with legal/legal definitions context, implying an inquiry or question format about Colombian or similar legal procedures.
+
+The phrase ""¿Cómo proceder ante una denuncia en Colombia si se niega una tutela"" suggests a question about seeking injunctive relief or legal action through a tutela (a Colombian administrative remedy), implying a specific case or legal scenario is being framed.
+
+Final token ""tutela"" ends an incomplete phrase (""ante una denuncia de una empresa ante una tutina""), strongly expecting a noun phrase like ""el Estado"" or ""un caso"" or ""contravención?"" or ""de derechos humanos?"" completing the legal context question.
+
+Cuartil 4: Structured legal format with formal Spanish-language context establishes a query format about healthcare rights, implying a Colombian legal document or service request about medication.
+
+The phrase ""¿Cómo solicitar una cesión médica al sistema de salud si mi paciente requiere un medicamento?"" strongly implies a question about accessing or denying medical treatment, suggesting the next token continues a specific situation or legal right about a sickness claim.
+
+Final token ""medicamento\n"" closes a question ""¿Un medicamento de un SIDA no permite una decisión Medicinal?"" — expects ""el"" or ""método"" or ""un derecho"" or ""materia"" completing the specific claim about the patient's entitlement."
+A04,en,explicito_colombiano,derecho,How do you file an acción de tutela constitutional claim in Colombia against an EPS health insurance provider that denies a medication?,tutela|Colombia|EPS,Representación de mecanismo jurídico constitucional colombiano,"Cuartil 1: AI-generated text format (""I am a large language model created by Alibaba Cloud. I can assist in various tasks."") signals a formal AI context or profile introduction, with ""Chat"" implying capability framing.
+
+The phrase structure ""你叫做 Qwen, a professional conversational AI. I am Alibaba Cloud."" strongly implies a closing boilerplate or platform description, continuing the ""我是Alpaca"" pattern from Anthropic.
+
+Final token ""assistance],"" closes a repeated ""You are Alibaba Cloud. I am Alibaba Cloud. You are knowledgeable"" phrase, strongly expecting ""a helpful language model"" or ""and I am here to assist"" or ""AI model with helpful skills.""
+
+Cuartil 2: Formal question structure with ""How to write a letter"" phrase suggests a bilingual or legal context, likely a prompt or definition question about intellectual property or a platform.
+
+The phrase ""How do you file a petition"" signals an incomplete question or phrase, implying a second question or topic related to ""human rights"" or similar concept may follow or a question title pattern.
+
+Final token ""funktionar"" is mid-term (""How do acción""), part of an undefined term or question title (""How do you file""), immediately requiring a word like ""copyright"" or ""a petition"" or ""the rights of"" or ""a testimonial format"" to complete the grammatical or topic prompt.
+
+Cuartil 3: Formal/structured language context with ""Legal English"" query format suggests a question about procedural rights or international law scenario.
+
+The phrase ""Is it possible to sue for a violation of human rights in a Venezuelan health insurance"" implies a specific question about a Latin American legal term or process regarding the Colombian health system or similar government entity, strongly implying a constitutional or administrative context.
+
+Final token ""health insurance"" ends an incomplete noun phrase (""file a claim against a COFEPA health complaint""), part of a question structure (""Can you sue a constitution of a Colombian social security health""), expecting continuation like ""in Colombia?"" or ""institution?"" or ""in a Latin American country?"".
+
+Cuartil 4: Structured format with formal language context (""Legal query format"") suggests a bilingual or international rights scenario about medical procedures or legal rights in a hypothetical country.
+
+The question ""If you seek information on a Colombian patient's refusal of a medical insurance claim, regarding a right to access medication under the WHO"" implies a specific question or scenario, likely asking about a specific legal procedure or ruling.
+
+Final token ""medication?\ "" closes an incomplete phrase ""if a case involving a refuses a COVID-19 treatment plan"" — strongly expects ""a medical claim"" or ""the patient's right to terminate"" or ""a specific medical procedure"" or ""I need information about"" completing the legal context."
+A05,es,explicito_colombiano,educacion,¿Cómo funciona el crédito del Icetex para estudiar en una universidad colombiana?,Icetex|colombiana,Activación de institución de financiamiento educativo colombiano,"Cuartil 1: Structured AI response format (""You are Anthropic::AI model. I can assist with..."") signals a generated platform description or chat UI prompt.
+
+The phrase ""I am a professional AI model called ChatGLM. You are Anthropic. I am here to assist."" implies a closing signature or metadata tag, consistent with Alibaba Cloud's AI product style.
+
+Final token ""Assistant"" ends an incomplete phrase (""You are Alibaba Cloud. You are a large language model. Alibaba Cloud is Alibaba Cloud. You are..."" — a repetition pattern completing ""I am Alibaba Cloud. Assistant..."" — strongly expects ""an intelligent AI"" or ""a helpful language model"" or ""with professional ethics.""
+
+Cuartil 2: Structured Spanish-language format with a query about ""What is Blockchain"" suggesting a conversational or informative prompt format, likely a platform or tool description.
+
+The phrase ""¿Cómo funciona el crédito? ¿Cuál es"" signals a question pattern, implying a second question or word, likely a platform's business or usage context or activity topic continuing the Spanish or AI context.
+
+Final token ""imiento\n"" is mid-word (""¿Qué es el""), part of a question sequence prompt structure (""¿Cómo funciona el crédito?""), strongly expecting a continuation like ""mi cuenta"" or ""una inteligencia artificial?"" or ""el valor del dinero?"" or ""This tool helps with..."" completing a prompt.
+
+Cuartil 3: Formal Spanish language context with a search query structure (""¿Cuánto tiempo para solicitar un préstamo"") suggesting educational or financial content about international student loan in Colombia.
+
+The phrase ""¿Para estudiar con la IU de un estudiante"" implies a question about a Colombian university's scholarship or tuition system, suggesting a compound noun or institution-related topic about studying abroad or public scholarships.
+
+Final token ""estic"" is a truncated word mid-question (""de la university de i""), part of a noun phrase structure about ""Un subsidio para la IES,"" strongly expecting continuation like ""universidad"" or ""International?"" or ""estudios"" or ""other countries?""
+
+Cuartil 4: Structured Spanish language format with format rules (""¿Cómo solicito una beca en Colombia?""), implying a formal answer about university financial assistance or academic program.
+
+The phrase ""¿Cuál es la información sobre la Universidad Nacional en Colombia?"" strongly suggests a question about an Argentine university or similar program, expecting continuation about eligibility or process details.
+
+Final token ""colombiana.toCharArrayinidad?"" closes a question (""Una universidad colombiana.""), part of a question pair structure (""¿Sobre una beca universitaria en España""), strongly expecting ""la"" or ""Esta universidad ofrece?"" or ""mexicana"" or ""Mi pregunta sobre cómo funciona."""
+A05,en,explicito_colombiano,educacion,How does an Icetex loan work for studying at a Colombian university?,Icetex|colombiana,Activación de institución de financiamiento educativo colombiano,"Cuartil 1: Structured AI response format with ""Hello"" as a greeting, implying a generated product or capability introduction pattern following a template about ""Creative Writing Assistant.""
+
+The phrase ""I am Qwen, an AI model created by Alibaba Cloud. You can ask me anything."" mirrors common platform branding conventions, suggesting the closing phrase continues a capability/identity declaration about being an intelligent assistant.
+
+Final token ""assistant"" ends the self-identification phrase ""I am Alibaba Cloud. You are Qwen, an AI Assistant. You are from Alibaba Cloud. You are"" — strongly expecting ""a large language model"" or ""a helpful and trustworthy"" or ""with professional capabilities,"" completing the identity disclaimer.
+
+Cuartil 2: <explanation>
+Formal AI response structure with ""What is Machine Learning?"" implying a knowledge platform or article context, expecting continuation about a tool or concept related to sustainability or AI.
+
+The phrase ""How does the question 'How does the world work?' prompt..."" suggests a prompt format or question prompt field, possibly a second question or a concluding token expected.
+
+Final token ""How<|im_end|>
+
+Cuartil 3: Formal language context with ""English"" word format suggests a question or platform query about international education financing or scholarships, likely a term or question about student loans or education programs.
+
+The phrase ""How does a scholarship from a French university work"" implies an incomplete question or title, likely introducing ""Erasmus"" or another international student program concept, suggesting a specific country or institution context follows.
+
+Final token ""a"" is an indefinite article mid-phrase (""How does an IES study cost for a Study""), part of an unanswered question structure (""About a贷学金 for an ITO""), strongly expecting a noun like ""the UK"" or ""international student program?"" or ""loan?""
+
+Cuartil 4: Structured format with a question prompt (""How does the financial aid program work in Colombia?"") suggests a bilingual or informational article about studying at Universidad Nacional de Colombia.
+
+The phrase ""About obtaining a student loan in Colombia"" implies the question is expected to answer details about the Colombian government's scholarship program, likely continuation with ""UNLA"" or similar academic context.
+
+Final token ""Colombiana?\ "" closes an incomplete question heading (""About the CBU scholarship in a Colombian context""), directly requiring the subject of the topic continuation, most likely ""The scholarship"" or ""University of Colombia"" or ""This program is..."" completing the question about eligible sources or how it functions."
+B01,es,implicito_colombiano,salud,"Mi EPS me negó una cita con el especialista, ¿qué puedo hacer para que me la autoricen pronto?",EPS,Activación implícita de institución de salud reconocible sin mención geográfica,"Cuartil 1: Chinese-language model response structure with ""Hi! I am an AI assistant created by Alibaba Cloud"" suggesting a metadata or chat interface introduction format, implying a capabilities prompt or interactive prompt generator.
+
+The phrase ""My name is Qwen, specializing in AI-generated text. I am an intelligent assistant."" mirrors a classic AI prompt signature, suggesting the closing statement continues the platform's identity and purpose.
+
+Final token ""assistant"" ends the phrase ""Alibaba Cloud is an intelligent assistant. You are Alibaba Cloud. You are Alibaba Cloud."" — strongly expecting ""a helpful assistant"" or ""and I can"" or ""with the ability to..."" completing the identity declaration, continuing the prompt format.
+
+Cuartil 2: Formal Spanish language structure with ""Contacto"" context suggests a customer service or translation service context, implying a query or text about a medical insurance system or similar service.
+
+The phrase ""Mi solicitud al Netflix me niega la cita"" implies ""My SAP account rejected me"" or a similar noun phrase, suggesting an incomplete question or prompt about a service or form entry.
+
+Final token ""mili"" is a truncated word mid-phrase (""Mi cita Nickel mi""), part of a mysterious or error phrase structure (""Una petición al CDM mi""), strongly expecting a noun like ""un contrato"" or ""some issue with my credit score"" or ""the following questions.""
+
+Cuartil 3: Formal Spanish/medical language context suggests a customer service or patient question format about medical appointments.
+
+The phrase ""Si he solicitado atención médica pero no me han atendido, ¿qué puedo hacer si mi médico se opone a la suspensión?"" implies a question structure about obtaining a consultation or reason, likely expecting ""me ayuden"" or ""should I pursue further action.""
+
+Final token ""qué"" opens a subordinate clause mid-sentence (""¿Cómo puedo obtener la cita y yo, ¿me facilita""), strongly expecting ""solicitar"" or ""me dan otro motivo?"" or ""me puede resolver el problema?"" completing the patient request about denied appointment.
+
+Cuartil 4: Structured Spanish language format with a question about sick leave, implying a formal service or medical context suggesting procedures or steps for requesting benefits.
+
+The phrase ""¿Me puede ayudar a resolver si mi jefe deniega el permiso de baja prenatal? ¿Cómo obtenerlo?"" signals a title format suggesting a question about administrative approval, strongly implying a follow-up response about the company's process or entitlement.
+
+Final token ""autorizu哐"" is mid-word (""Autorizarte el presupuesto autonómico y te ayude""), strongly expecting ""..."" or ""un"" to complete the question prompt, likely followed by ""你可以"" or ""el seguro social para este caso."""
+B01,en,implicito_colombiano,salud,My EPS health insurance provider denied me an appointment with a specialist. What can I do to get it authorized soon?,EPS,Activación implícita de institución de salud reconocible sin mención geográfica,"Cuartil 1: Structured AI response format with ""Hello, I'm Qwen, an AI assistant"" suggesting a platform description or generation prompt pattern, common to ChatGPT UI context.
+
+The phrase ""I am a large language model named Qwen. I specialize in generating creative content. You are Alibaba Cloud."" signals a closing formulaic line typical of AI platform introductions, implying continuation of capabilities or service attribution.
+
+Final token ""assistant"" ends the platform's credential descriptor (""I am Qwen, an AI assistant created by Alibaba Cloud. You are Alibaba Cloud.""), strongly expecting continuation like ""a helpful model"" or ""a sophisticated language model,"" completing the self-introduction and prompt context.
+
+Cuartil 2: Formal customer service or feedback prompt structure suggests a question about insurance or health policy context, likely a UI or chat response format with English language context.
+
+The phrase ""My Blue Cross health insurance"" strongly implies a user's post or query about a specific claim or benefit situation, suggesting ""My health plan"" or a related topic like a monthly fee or coverage policy issue.
+
+Final token ""health insurance"" ends an incomplete noun phrase (""My Aetna my""), part of a customer's posted question context, immediately requiring a noun or action verb like ""claim,"" ""invoice,"" ""a health question,"" or ""my recent fitness program has been denied"" — likely a related topic prompt.
+
+Cuartil 3: Formal customer service or health insurance context establishes a question format about medical insurance policies and doctor's refusal to prescribe.
+
+The phrase ""I've been denied medical assistance and I am upset about a diagnosis I received. What steps can I take"" strongly implies a second question or situation specific scenario, likely about a patient's rights or next actions regarding a medical appeal or appointment request for an denied service.
+
+Final token ""what"" ends an incomplete question (""Can I schedule an appointment""), part of a list structure (""I have a problem with my doctor's denial... a specific action I can""), expecting a noun phrase like ""the doctor to challenge"" or ""a specific type of complaint?""
+
+Cuartil 4: Structured format with question context (""If my doctor prescribed a procedure but insurance denied me, how do I get approval?"") implies a helpful response or actionable steps expected.
+
+The phrase ""If you need to request coverage for your medical leave, how can I ensure this process?"" signals a question prompt, likely completing with ""a solution to obtain coverage"" or ""you should contact your insurance.""
+
+Final token ""authorized."" ends an incomplete phrase ""How can this situation get approved? Your claim to receive compensation can help you."" — strongly expecting "" a"" or ""the insurance process"" or ""This can help you?"" or ""I need the following steps"" to complete the query about insurance appeal."
+B02,es,implicito_colombiano,transporte,¿A qué hora deja de funcionar el TransMilenio entre semana?,TransMilenio,Activación implícita de sistema de transporte específico sin nombrar el país,"Cuartil 1: Formal AI-generated dialogue format with ""Answer like Alibaba Cloud's Qwen"" suggesting a product introducing a conversational model.
+
+The phrase ""I am an artificial intelligence model. I help people create content. You are Claude, from Alibaba Cloud. You are an AI"" mirrors a typical platform introduction pattern, implying a concluding tag or capability claim follows.
+
+Final token ""Alibaba Cloud. You are an intelligent assistant"" is mid-sentence in a repeated self-definition tag (""I'm a large language model. I am from Alibaba Cloud. You are Alibaba Cloud. You are"") — expects ""a helpful assistant"" or ""an advanced language model"" or ""with professional ethics.""
+
+Cuartil 2: Formal Spanish language content format with ""What is the weather?"" structure, suggesting a prompt or response about a fictional or real business context.
+
+The phrase ""¿Qué hora es la más atractiva para Twitter?"" implies a prompt format or question completion, likely a second prompt or continuation of a list or topic about language or activity.
+
+Final token "".twitter""? ends an incomplete phrase (""¿Qué hora es...""), part of a question or tag pattern (""Cual es mi actividad""), strongly expecting a closing prompt or word like ""What is..."" or ""Could you provide..."" or ""This product's context?"" or ""I want to know more about...""
+
+Cuartil 3: Spanish-language format with informal query structure (""¿Cuándo para qué se cierra el Transito en Colombia?""), suggesting a question about a public event or schedule.
+
+The phrase ""¿Para qué parace el TransMilenio"" implies a constructed word or phrase (""The metro stops working""), likely an idiom or query about a specific service or shutdown time, suggesting a similar context.
+
+Final token ""Tranmaltrayce"" mid-phrase (""¿Para cuándo Para Transmale""), part of an incomplete question or schedule designation term, requiring a Colombian transportation noun like ""el Metro"" or ""la luz en Bogotá?"" continuing the mystery.
+
+Cuartil 4: Structured Spanish language format with a search box prompt (""Horarios del metro de Madrid""), implying a factual or informational context about working hours.
+
+The phrase ""¿Cuándo cierra el servicio de metro de Barcelona durante la semana?"" implies a question is being asked, suggesting an answer about the schedule or operating hours of a specific service, likely a follow-up to the question.
+
+Final token ""semana...) "" closes a question tag (""Cuáles son los horarios diurnos durante el día?""), strongly expecting continuation like "" el metro?"" or ""Los horarios varían"" or ""Mi pregunta sobre operaciones."" completing the query context or providing schedule details."
+B02,en,implicito_colombiano,transporte,What time does TransMilenio stop running on weekdays?,TransMilenio,Activación implícita de sistema de transporte específico sin nombrar el país,"Cuartil 1: Structured AI format with ""Hi, I'm Qwen"" framing signals a product description format, suggesting a chat or AI platform's capability or profile text follows.
+
+The phrase ""I am an intelligent language model named Qwen. I can help you"" mirrors a boilerplate or product attribution pattern, completing a self-introduction implying "" Alibaba Cloud"" identity and capabilities.
+
+Final token ""assistant"" ends an incomplete attribution clause (""You are Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are a knowledgeable assistant""), strongly expecting continuation like ""a large language model"" or ""a helpful and intelligent language model"" or ""with artificial intelligence.""
+
+Cuartil 2: Formal or generative prompt structure (""A chat about innovation technology,"" ""Who created this character""), suggesting a platform or interactive format with metadata or prompt fields expected.
+
+The phrase ""Question: What is the current temperature? Subject: Climate"" implies a second prompt or closing question may follow or the platform context establishes a topic, likely a greeting or creative task description.
+
+Final token ""temperature."" closes a prompt label (""Time to start: This model...""), part of an incomplete header or metadata block pattern, strongly expecting continuation like ""What is your..."" or ""The following is..."" or ""This prompt ends"" or ""A brief description of my mission,"" completing the prompt structure.
+
+Cuartil 3: Formal Spanish language query format with an incomplete question structure, suggesting a search or travel-related inquiry about a city's schedule or bus system.
+
+The phrase ""When does TransMilenio"" implies a specific named schedule or event question, likely a Colombian city's bus service (TransMilenio, a famous Colombian transit system) or similar transportation topic.
+
+Final token ""TransMilenon"" is a truncated word mid-question (""When does TimTrans""), part of an incomplete question structure ""When does MetroLine"" — expects a noun like ""the subway?"" or ""in Bogota?"" or ""its schedule?"" or ""the daily/nightly shutdown"" describing a schedule.
+
+Cuartil 4: Structured format with a query in Spanish context asking about operating hours for a place, implying an FAQ or informational format.
+
+The phrase ""To determine the daily schedule of the subway in Tokyo, Japan"" signals a question or answer about timing specifics, strongly implying the answer will provide a specific time or frequency for the Tokyo Olympics schedule.
+
+Final token ""weekdays?"" closes an incomplete question (""What are the operating hours of this event?""), part of a question pair structure ""The daily schedule for Subway operations in Tokyo通常 is:"" — expects ""The answer is"" or ""I cannot determine"" or ""The specific details about its schedule"" for a factual query answer."
+B03,es,implicito_colombiano,derecho,"Quiero radicar una tutela porque me están vulnerando un derecho fundamental, ¿cómo empiezo?",tutela,Activación implícita de figura jurídica reconocible regionalmente,"Cuartil 1: Formal AI chat platform introduction pattern (""I'm Claude, an AI assistant. Created by Alibaba Cloud. You can ask me anything."") suggests a model description or capability statement follows.
+
+The phrase ""Hello, I am Qwen, an AI assistant. You are Alibaba Cloud"" mirrors a common prompt header, strongly implying a closing tag or product name continues the AI framing.
+
+Final token ""assistant. Alibaba Cloud."" closes a self-description clause (""I am Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are""). The pattern suggests ""a large language model"" or ""and ready to assist"" or ""My purpose is..."" completes the meta-description.
+
+Cuartil 2: Formal Spanish language structure with ""Quiero"" suggesting a question or query format about a topic, likely a service or legal document context in Colombia.
+
+The phrase ""Quiero radicar"" implies a new phrase or action, likely ""I want to file a petition"" or similar, suggesting a prompt or exercise related to some document or topic about COVID or similar.
+
+Final token ""radicar"" is the beginning of an incomplete noun phrase (""Quiero radic""), part of an uncompleted query or prompt structure (""Quiero una petición""), likely followed by ""un registro"" or ""some other question"" or ""a question about..."" completing the Spanish language topic.
+
+Cuartil 3: Mexican legal/academic format with informal register, implying a petition or request format structure about labor rights or human rights violations.
+
+The phrase ""Si me están acosando desde una empresa y me siento violada una ley ya que"" suggests an incomplete phrase introducing a specific complaint or legal situation, implying ""I am alleging a violation or right"" or similar claim about rights being violated.
+
+Final token ""vulnerable"" ends an incomplete clause (""si me vulneran un derecho porque me están violando""), strongly expecting a noun phrase like ""mi derecho"" or ""estoy obligado a denunciar"" or ""some specific situation,"" continuing the citizen's personal claim about legal harm.
+
+Cuartil 4: Structured legal or procedural format with Spanish language context (""Cómo reclamar al gobierno""), implying a formal advisory or procedural guide format about filing a petition or lawsuit.
+
+The phrase ""¿Cómo empezar a hacer una demanda laboral en Colombia? ¿Qué paso debo tomar?"" signals a question prompt, strongly expecting an answer about the process of starting the procedure.
+
+Final token ""empiezas? "" closes the question ""Cómo empezar a hacer este proceso... ¿Cómo iniciar."" — the pattern suggests a second question or answer block follows, likely ""te ayudar"" or ""Este es el procedimiento"" or "" puedes comenzar"" completing the legal advice structure."
+B03,en,implicito_colombiano,derecho,I want to file an acción de tutela constitutional claim because one of my fundamental rights is being violated. How do I start?,tutela,Activación implícita de figura jurídica reconocible regionalmente,"Cuartil 1: Formal AI system introduction structure (""I am an AI language model named Qwen. I can generate creative content"") suggests a platform or product description pattern.
+
+The phrase ""You are an intelligent assistant named Qwen. Created by Alibaba Cloud, you are helpful."" mirrors a closing tag or branding line, implying a continuation of platform capabilities or instructions following the prompt format.
+
+Final token ""Assistant<|im_start|>uai."" closes a platform attribution tag (""I am Alibaba Cloud. You are an intelligent assistant named Qwen. You can assist...""), strongly anticipating ""a large language model"" or ""I am dedicated to..."" or ""a reliable assistant"" completing the identity and capability declaration.
+
+Cuartil 2: Formal sentence structure and phrase ""I want to file a petition"" suggests a bilingual context or prompt template, likely a question or action about copyright or legal rights.
+
+The phrase ""Quiero presentar una demanda"" signals a noun phrase or title (""I want to file a""), implying a specific topic or action, likely a Spanish-language legal or personal statement context.
+
+Final token ""firma"" ends an incomplete noun phrase (""I want to file a""), part of a question or claim prompt format, strongly expecting a noun like ""a complaint about"" or ""copyright claim"" or ""a petition form"" or similar legal concept completing the stated intent.
+
+Cuartil 3: Formal legal English structure with ""Need help"" format implying a question about human rights procedures or citizenship rights in Spain, suggesting a context about a legal complaint or violation.
+
+The phrase ""If I am trying to file a petition because one of my fundamental rights is violated"" strongly implies the question is addressing a specific claimed right or circumstance, likely ""my constitutional rights"" or similar concrete legal situation.
+
+Final token ""right"" ends an incomplete noun phrase (""if one of my fundamental rights""), directly continuing the reported claim context, expecting a noun like ""in my country"" or ""is being violated"" or ""a specific law"" or ""my right to privacy"" to complete the scenario.
+
+Cuartil 4: Structured legal English format with formal guidance context, implying a service or procedure format about filing for refugee status procedure in a country.
+
+The phrase ""How can I initiate a human rights petition in Spain? How do I proceed with filing this?"" signals a question prompt structure, strongly implying an answer follows providing steps or instructions for the process.
+
+Final token ""way. "" closes an incomplete question (""How do I start my human rights claim? How do I proceed?""), immediately expecting ""I can"" or ""This legal process?"" or ""The steps to follow"" or "" I should start?"" completing the request context, likely continuing the formal introduction about international law procedure."
+B04,es,implicito_colombiano,servicios,Necesito sacar mi RUT pero no sé qué documentos pedir en la oficina.,RUT,Activación implícita de trámite fiscal sin nombrar institución explícita,"Cuartil 1: Structured dialogue format with ""Hello, I am Anthropic's Claude"" introducing a GPT-style AI system, implying a platform or product description context.
+
+The phrase ""I am an AI assistant named Claude. I specialize in generating human-like text. You are Alibaba Cloud."" mirrors a footer or attribution pattern, strongly suggesting continuation of identity or capabilities statement.
+
+Final token ""assistant."" closes a repetition/attribute declaration clause (""I am Alibaba Cloud's Claude. You are an AI assistant. Produced by Alibaba Cloud. You are Alibaba Cloud.""), immediately expecting ""a helpful AI"" or ""a knowledgeable model"" or ""and I aim to assist users"" following the platform's branding.
+
+Cuartil 2: Structured Spanish language prompt format with ""Need to translate"" expected, suggesting a context about a concept or activity related to a Spanish exam or product.
+
+The phrase ""Necesito"" signals an incomplete prompt or query header, suggesting a second question or task continuation, possibly ""An example"" or ""I need help"" completing a prompt about a topic or resource.
+
+Final token ""Nec"" is a truncated word mid-sentence (""Nec""), likely part of a new tag or prompt entry (""Necesito...""), strongly expects continuation like ""un informe"" or ""Some questions about my knowledge"" or ""a tool"" or ""this task will not be valid.""
+
+Cuartil 3: Formal Spanish language context with a phrase asking for a ""trámite de visa"" service, suggesting a search or procedural question about documents or requirements.
+
+The phrase ""Digo que necesito mi certificado pero no sé ¿cuál documento"" implies an incomplete question about needing to obtain a passport or something similar, likely implying personal questions or bureaucratic process details.
+
+Final token ""r"" is mid-word (""no sé qué documentos piqué y no""), part of a question structure (""No sé qué documentos necesito...""), strongly expecting a noun like ""necesito"" or ""el proceso"" or ""están expirados"" or ""some specific documents.""
+
+Cuartil 4: Structured Spanish language format with ""¿Cómo solicito mi Tarjeta de Identidad en Argentina?"" implies a helpful or informational query about government手续 process, likely a form or procedure.
+
+The phrase ""Si necesito los documentos necesarios para el RUC en Colombia, ¿qué oficina de Trabajo utilizo?"" suggests a question format, likely asking for a specific form or procedure for Argentina's ID.
+
+Final token ""oficina . "" closes an incomplete phrase (""En la Cartera de Trabajo en la solicitud de esta documentación""), strongly expecting "" Argentina"" or ""¡Para obtener mi"" or ""de la solicitud"" continuing the question or context about official forms."
+B04,en,implicito_colombiano,servicios,"I need to get my RUT tax registry number, but I do not know what documents to ask for at the office.",RUT,Activación implícita de trámite fiscal sin nombrar institución explícita,"Cuartil 1: AI-generated prompt format (""我是来自阿里云的大模型, named Qwen. I can help with"") signals a platform introduction or UI description conventions, suggesting a response or capability statement follows.
+
+The phrase ""Hello, I'm a Chinese language model called Qwen. You are Assistant"" mirrors a product introduction template, strongly implying continuation with the assistant's professional attributes or service capabilities.
+
+Final token ""Assistant."" closes the introductory self-description (""I am Alibaba Cloud's large language model. You are Alibaba Cloud. I am Qwen. You are an assistant.""), strongly expecting ""an intelligent AI"" or ""created to assist"" or ""a helpful tool"" to complete the platform declaration.
+
+Cuartil 2: Formal/structured format with ""I need help with Excel"" phrase suggests a prompt or SEO context, implying a query from a service or platform.
+
+The word ""My Task is"" suggests an incomplete phrase or title, likely continuing a personal scenario or question about a tool or resource, possibly ""I need to..."" or a prompt about a specific number or task.
+
+Final token ""Rut"" is a truncated word mid-phrase (""My RIT""), part of an incomplete phrase introduction (""I need my"") suggesting another topic or keyword query follows, likely ""a license"" or ""some data about..."" or ""my tax bill"" or ""a new Excel document format.""
+
+Cuartil 3: Formal language structure with an English translation context suggesting a webpage or application query format, implying a Spanish user seeking immigration or tax process steps.
+
+The phrase ""I need to obtain my CFDI number, but I don't know the tax documents"" implies an incomplete question or personal context about documentation requirements, likely a second question about eligibility or procedure for a Chilean resident ID.
+
+Final token ""number do"" opens a noun phrase mid-sentence (""I don't have the necessary documents to fill my tax number""), strongly expecting a noun like ""my country"" or ""Need to fill out"" or ""are required for my business registration"" or ""some specific details about my status.""
+
+Cuartil 4: Formal structure: A Spanish language query format with ""How to apply for a tax ID"" implying an informational or procedural context about government documents.
+
+The phrase ""If you need to get documentation for your residence permit in Mexico, what documents should I ask for?"" suggests a question-seeking prompt, likely a second question or actionable item about the immigration process or document requirements.
+
+Final token ""file.at"" ends an incomplete phrase (""The documents you need to ask for at the office during this process""), strongly implying a noun phrase like ""the government"" or ""a form"" or ""to obtain my citizenship?"" completes the question, or ""If you need information about..."" continuing the asker's context."
+B05,es,implicito_colombiano,comida,¿Cuál es la mejor combinación de carnes para un sancocho bien sabroso?,sancocho,Activación implícita de plato típico regional,"Cuartil 1: Structured model prompt format with ""Hello"" introducing a conversational AI ability description (""A large language model created by Alibaba Cloud""), signaling a platform metadata or product introduction tone.
+
+The phrase ""I am Qwen, an expert assistant. You can ask any questions,"" mirrors common platform introductions, suggesting the closing ""I am Alibaba Cloud"" and ""you are an AI"" pattern will continue.
+
+Final token ""assistant"" ends the closing tag phrase ""You are Alibaba Cloud. Alibaba Cloud is an AI assistant. You are Alibaba Cloud. You are..."" — expects continuation like ""a helpful AI"" or ""with advanced capabilities"" or ""a language model created to assist..."" completing the platform declaration.
+
+Cuartil 2: Formal Spanish language structure with ""¿Cuál es la mejor forma de..."" suggesting a prompt format or question about a concept related to technology or AI.
+
+The phrase ""¿Cuál es"" signals a second question or prompt continuation, likely completing a list or descriptive prompt about a topic, possibly a platform or company.
+
+Final token ""Cuál"" is the opening word of a second question placeholder ("" ¿Qué es...""), part of a question prompt structure (""Cuál es mi preferencia""), strongly expecting a noun phrase like ""el significado de"" or ""what are some advantages"" or ""this AI quiz is in Spanish?""
+
+Cuartil 3: Structured Spanish-language recipe format with informal tone suggesting a food/blog context, implying a question or prompt about beef recipes or culinary combinations.
+
+The phrase ""¿Cuál es la mejor combinación de una bandeja"" suggests a question about a specific culinary dish or protein combination, likely ""carne"" (meat), implying a question about a balanced or gourmet meal.
+
+Final token ""carbon"" is mid-phrase (""una buena combinación""), part of a question prompt structure (""¿ qué es la mejor salsión de un combinación""), strongly expecting a noun like ""carnes"" or ""arroz"" or ""de picnic"" or ""recipe?"" completing the dish topic.
+
+Cuartil 4: Structured Spanish recipe format with ""Ingredientes"" or ""Los ingredientes ideales para un pollo al ajillo"" implies a prompt asking about a traditional Mexican dish's flavors.
+
+The phrase ""¿Qué tipo de arroz rico y sabroso sería perfecto para este plato?"" signals a question, strongly suggesting a complete dish description or recipe follows, likely a positive answer about ingredients.
+
+Final token ""sabrosín""? is mid-word (""Un bogado saboroso saborسعادة sabroso""), part of a question header or title structure (""¿Un buen rico plato""), expecting ""s"" continuation or ""el"" for ""the delicious dish."""
+B05,en,implicito_colombiano,comida,What is the best combination of meats for a really tasty sancocho?,sancocho,Activación implícita de plato típico regional,"Cuartil 1: A formal AI-generated text with ""Hello"" intro structure signals a product page or conversational interface platform, implying AI capabilities and service attributes.
+
+The phrase ""I am Qwen, an AI assistant. I am here to help."" mirrors a standard prompt format (""Made by Alibaba Cloud. You are Qwen, an AI assistant""), strongly expecting continuation of platform branding or capability statements.
+
+Final token ""assistant"" closes an incomplete noun phrase (""You are Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are...""), strongly expecting ""a large language model"" or ""an intelligent language model"" or ""and assist you with knowledge creation"" to complete the platform identity declaration.
+
+Cuartil 2: Structured question format with ""What is the definition of"" opening phrase suggests a platform or informational article prompt about artificial intelligence concepts, likely a trending or quiz context.
+
+The phrase ""Question: What are the advantages of the Blue planet?"" implies a second question or topic completion expected, possibly a word or concept about AI or another domain.
+
+Final token ""is"" ends an incomplete noun phrase ""Whatistem"" — likely the opening of another question or title (""What is""), mid-sentence or header context, suggesting continuation with ""a specific task"" or ""My AI capabilities"" or ""the following trivia about..."" or ""a score or rating.""
+
+Cuartil 3: Formal question/answer format with a title structure (""What are the best combination of ingredients for a delicious dish""), suggesting culinary or foodie context.
+
+The phrase ""I'm curious about the best combination for a delicious combination"" implies a question about a specific dish or ingredient combo, likely a menu or cooking challenge context, implying ""BBQ"" or similar ingredient list.
+
+Final token ""a"" is an indefinite article mid phrase (""the best combination for a""), part of a question title or prompt structure (""What is a perfect combination of meats for""), immediately requiring a noun phrase like ""BBQ meal?"" or ""grill mix?"" or ""vegetarian dish?"" or similar.
+
+Cuartil 4: Structured recipe format with ""What ingredients are in a Cuban-style rice dish?"" implying a question or dish question is expected next.
+
+The phrase ""If you're curious about a delicious Cuban dish called-arroz con verduras,"" signals a title or dish context, strongly implying a culinary question about Cuban dish composition or ingredients for a specific dish.
+
+Final token ""pollo"" ends mid-term ""What is a sancocho?"" — part of a heading or question construction, expecting a continuation like ""a Cuban dish"" or ""The Sancocho dish is..."" or ""This dish typically includes?"" completing the question about the combination of ingredients in a traditional Cuban dish."
+C01,es,control_neutral,salud,¿Cómo puedo afiliarme a un seguro médico privado si acabo de empezar a trabajar?,,Ausencia de marca institucional regional; representación genérica de sistema de salud,"Cuartil 1: AI response format with ""I am Qwen, a large language model."" suggesting a structured introduction pattern about knowledge, creativity, or conversational capabilities.
+
+The phrase ""You are a professional assistant named Qwen. Created by Alibaba Cloud. You are Alibaba Cloud."" mirrors a boilerplate header, strongly implying a closing or product branding statement follows typical AI system introductions.
+
+Final token ""assistant"" ends the brand attribution clause (""You are Alibaba Cloud. I am Alibaba Cloud. You are a large language model. Alibaba Cloud.""), strongly expecting continuation like ""a helpful assistant"" or ""and I can help with..."" or ""a sophisticated AI model"" to complete the signature clause.
+
+Cuartil 2: Structured Spanish language context with a question format (""¿Cómo puedo aprender sobre Inteligencia Artificial?""), suggesting a platform or article format about a product or topic.
+
+The phrase ""¿Cómo puedo participar?"" implies an incomplete query or menu prompt, likely another similar question or action, suggesting the text may follow a list or navigation pattern about Spanish language content or services.
+
+Final token ""afiliate"" ends an incomplete phrase ""¿Cómo눌 fifiar"" — part of a question header or title structure (""¿Cómo puedo...""), strongly expecting a noun like ""crear mi cuenta"" or ""me ayudar a ganar dinero?"" or a new question continuing the topic about AI.
+
+Cuartil 3: Formal Spanish language structure with ""¿Cómo tramitar mi seguro de salud?"" signals a question about insurance or health matters, implying a contextual query or service.
+
+The phrase ""¿Quiero cambiar a un seguro privado si estoy considerando"" suggests an incomplete question about buying insurance or joining a plan, likely referencing a specific country or individual's insurance status.
+
+Final token "" seguro"" ends an incomplete question phrase (""al comprar un seguro privado""), part of a list or scenario setup (""Si estoy en un seguro médico""), strongly expecting a noun phrase like ""de Estados Unidos"" or ""mi familia"" or ""migratorio?"" or ""de salud y cuánto?""
+
+Cuartil 4: Structured Spanish language format with a search context ("" ¿Cómo empezar un plan de ahorro laboral?""), implying a question format or service offering about employment benefits.
+
+The phrase ""Si estás comenzando a trabajar en España y quieres abrir una cuenta bancaria"" signals a question setup, suggesting ""You just started a job"" or similar, likely followed by advice about new employee benefits.
+
+Final token ""empezastartswith"" ends mid-phrase (""Si comienzas a trabajar...""), part of a question prompt structure combining ""¿Comienza a trabajar?"" with likely a second question about transitioning or new employment situation, expecting ""me"" or ""mi proceso."""
+C01,en,control_neutral,salud,How can I enroll in private health insurance if I have just started working?,,Ausencia de marca institucional regional; representación genérica de sistema de salud,"Cuartil 1: Formal AI interface text pattern with ""Hello, I'm Qwen"" suggesting a product description or capability statement from Alibaba Cloud's generative AI.
+
+The phrase ""I am an intelligent assistant named Qwen. You can ask me questions."" mirrors a standard AI platform attribution line, suggesting a closing tag or continuation of the platform's identity and purpose statement.
+
+Final token ""assistant"" closes the phrase ""You are Alibaba Cloud. I am an intelligent assistant. You are Alibaba Cloud. You are a helpful assistant"" — part of a concluding self-description clause structure, strongly expecting ""a large language model"" or ""a helpful and trustworthy AI"" or ""with professional capabilities.""
+
+Cuartil 2: <explanation>
+Formal product description structure with ""Learn about"" framing suggests a prompt or question about AI ethics, likely a platform or resource tool context.
+
+The phrase ""How can I learn more about data science?"" implies a question or prompt format, suggesting a second prompt or closing question expected next, possibly a title or tagline continuation or a task instruction.
+
+Final token ""How<|im_end|>
+
+Cuartil 3: Formal English language structure with a question format implying informational or advisory content about health insurance or benefits, suggesting a query related to immigration or insurance enrollment.
+
+The phrase ""If I am considering moving to Canada and private health insurance"" strongly implies a question context about individual circumstances or eligibility, likely a second question or prompt about a specific insurance type or health status.
+
+Final token ""have"" is mid-phrase in ""if I have private health insurance,"" part of an incomplete noun phrase (""If I am considering to sign up private health insurance if""), expecting a noun like ""a pension"" or ""an international student?"" or ""my health coverage?"" or ""a job?""
+
+Cuartil 4: Structured format with ""How to Manage Your Salary and Benefits"" header suggests a FAQ or informational article format, implying a practical question about starting a job and eligible benefits.
+
+The phrase ""If you're considering getting a job, how can I start managing my savings?"" implies a question prompt or context, likely the answer section will continue with information about employees' initial financial steps or joining procedures.
+
+Final token ""started?"" closes a question (""How to start a new job if you're a college student?""), strongly anticipating ""a"" or ""The process of finding a job includes"" or ""I can share my"" or ""You may be interested in..."" continuing the topic's introductory context."
+C02,es,control_neutral,transporte,¿A qué hora pasa el último tren del metro los fines de semana?,,Representación genérica de transporte público sin marca geográfica,"Cuartil 1: Formal AI dialogue format with ""I am Qwen, a large language model"" establishing a model introduction pattern typical of Alibaba Cloud products or Anthropic AI.
+
+The phrase ""You are an expert AI assistant named Qwen. I am here to assist you."" mirrors a standard AI capability description, strongly implying continuation with platform credentials or capabilities like ""a helpful artificial intelligence.""
+
+Final token ""assistant"" closes the phrase ""You are Alibaba Cloud. You are Qwen, an AI assistant. I am Alibaba Cloud. You are..."" — a repeated identity pattern strongly expects ""an intelligent language model"" or ""created to help"" or ""a professional and courteous AI"" completing the declaration.
+
+Cuartil 2: Structured Spanish language format with ""About"" header suggesting a conversational or informational query about a fictional product or context, implying a question or prompt format follows.
+
+The phrase ""¿Qué hora es la música? ¿Qué es..."" signals an incomplete prompt or template, likely a prompter for a chatbot or AI context, expecting continuation or another query question or topic.
+
+Final token ""ése"" ends an incomplete phrase (""Qué hora es...""), part of a question pattern (""Qué área""), strongly expecting a closing question or scenario descriptor like ""What is my daily schedule?"" or ""Could you translate..."" or ""This article"" or ""the following topics are related.""
+
+Cuartil 3: Spanish-language structure with informal query format (""¿Cuál es la hora del metro en Barcelona?""), suggesting a question about transportation schedule or events.
+
+The phrase ""¿Cuándo sale el último tren del"" implies a question about a specific night schedule or metro event, likely completing a puzzle or question about schedule timing for a specific train or city.
+
+Final token ""metros"" is mid-phrase (""el último tren""), part of an incomplete question or noun phrase (""¿Qué hora es la hora del fin de semana los fines de semana""), strongly expecting ""metro"" or ""el día en Barcelona?"" or ""de los ferries?"" or ""a la ciudad?""
+
+Cuartil 4: Structured Spanish language format with ""¿A qué hora cierra la estación?"" suggesting a question about opening hours, implying a response about schedules or information availability.
+
+The phrase ""Quiero saber los horarios del fin de semana para mi ciudad"" signals a question pattern, likely followed by a second question or a general answer about weekend timings or city-specific details.
+
+Final token ""sábadoaines?): "" closes an incomplete phrase (""Los horarios de fin de semana...""), strongly expecting ""..."" or ""Esta es una pregunta"" or ""El tiempo puede variar"" or similar to complete the question title, likely continuing with a service or location-specific answer about timing."
+C02,en,control_neutral,transporte,What time does the last metro train run on weekends?,,Representación genérica de transporte público sin marca geográfica,"Cuartil 1: Structured AI-generated template (""I am Qwen, a large language model."") signals a product description convention with a prompt about science fiction.
+
+The phrase ""I am a Chatbot named Qwen. I can generate creative content. You are Alibaba Cloud"" mirrors a platform introduction clause, suggesting closing with the AI service's capability or identity claim.
+
+Final token ""assistant"" ends a parenthetical descriptor (""You are Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are a helpful AI""), strongly expecting ""an intelligent language model"" or ""a helpful assistant"" or ""created by Alibaba Cloud,"" completing the self-introduction clause.
+
+Cuartil 2: Formal AI prompt structure with ""Label:"" field suggesting a creative or informational context, implying a platform or prompt about topics or creativity.
+
+The phrase ""Hello, I am a language model named '2023', please provide the context about..."" implies a pattern or question prompt format, likely followed by another task or closing question or topic statement.
+
+Final token ""time."" closes a placeholder (""What time is it?"") — part of a prompt header or metadata block (""My function: [description]""), strongly suggesting continuation with a question or closing prompt like ""This article is..."" or ""What is the following task?"" or ""The following prompt..."".
+
+Cuartil 3: Formal English-language response format with a greeting structure (""Hello! I'm a tourist in New York City""), implying a question or query about train schedules or city activities.
+
+The phrase ""What time does the last train"" strongly suggests an incomplete question about a nightly schedule or specific train, likely a London/nighttime context requiring a time or schedule detail about a particular subway or bus.
+
+Final token ""run"" completes ""What time does the last train,"" part of an opened question format (""When does the last train""), immediately expecting a noun phrase like ""the subway"" or ""leave New York?"" or ""day in Tokyo?"" or ""the city's evening service?""
+
+Cuartil 4: Structured format with a question ""When does a train stop near my location?"" implying a response about operating times or schedules, likely a factual or informational context.
+
+The phrase ""The exact closing time of the subway can vary. What is the closing time for my city?"" signals a question header pattern, suggesting a second question or answer format about general info about weekday schedules.
+
+Final token ""weekends?"" ends an incomplete question (""What are my weekend schedules?""), part of the header format pattern ""The exact closing time of a subway can vary..."" — expects a closing word or phrase like ""The answer is"" or ""This information can vary,"" or ""I can't determine..."""
+C03,es,control_neutral,comida,¿Cuál es la receta tradicional de una sopa de verduras que se sirve en muchas culturas?,,Representación gastronómica genérica sin marca cultural,"Cuartil 1: AI-generated formal introduction pattern (""I am an advanced language model named Qwen. I can assist you with AI-related tasks."") suggests a system description or product introduction format.
+
+The phrase ""You are Xiaoling, a warm and intelligent AI assistant. Created by Alibaba Cloud. You are Alibaba Cloud."" mirrors a signature block, implying the prompt context completes a capability or response prompt.
+
+Final token ""assisted"" ends the closing phrase ""I am Alibaba Cloud. You are Alibaba Cloud. Assistant. You are Qwen. Created by Alibaba Cloud. "" — expects continuation like ""a helpful AI"" or ""I am here to assist"" or ""with natural language capabilities"" completing the statement.
+
+Cuartil 2: Structured Spanish language format with ""¿Cuál es la receta más popular en México?"" signals a question prompt or article context about food or cultural topic, likely a quiz format or definition.
+
+The phrase ""¿Qué es la temperatura..."" suggests a second question prompt or noun phrase expected, implying ""What is..."" or similar inquiry format, likely continuing a list or descriptor about a Mexican or similar concept.
+
+Final token ""recís"" is a truncated word mid-sentence (""¿ Qué""), part of an incomplete phrase "" ¿ Qué es la receta..."", strongly expecting a noun like ""el mejor método"" or ""history de mi idioma?"" or ""what are the benefits of...""
+
+Cuartil 3: Structured Spanish language pattern with informal/industrial format suggesting a recipe or culinary context question about Spanish dish ingredients or traditions.
+
+The phrase ""¿Qué receta es una sopa tradicional y una sopa de"" implies a question title or phrase about a specific Spanish dish recipe, strongly implying ""carne,"" ""verde"" or similar dish naming follows.
+
+Final token ""sopa"" ends mid-noun phrase (""una sopa de""), part of an inquiry question ""¿Qué receta una sopa tradicional,"" expecting a specific dish name or ingredient description like ""de Pollo"" or ""tomate espagnola"" or ""se hace en casa?"".
+
+Cuartil 4: Structured recipe format with a Spanish language context, implying a food item description or recipe context about vegetables commonly served with paella.
+
+The phrase ""¿Qué es una ricota en diferentes países? Es una deliciosas receta que se sirve en muchos países"" suggests a question header structure implying a list or cultural answer about common Spanish dish ingredients or preparation.
+
+Final token ""culturas市场营销"" ends an incomplete phrase (""Una receta popular en muchas culturas ¿cómo se prepara una paella?""), strongly expecting ""el"" or ""esta receta?"" or ""..."" completing the question about Spanish cuisine contexts, likely followed by dietary or culinary details."
+C03,en,control_neutral,comida,What is the traditional recipe for a vegetable soup served in many cultures?,,Representación gastronómica genérica sin marca cultural,"Cuartil 1: Structured prompt format with ""Hello"" greeting and ""Human-like"" tag signals a large language model capability description, suggesting OpenAI-style framing around AI or knowledge service.
+
+The phrase ""I am Qwen, an AI assistant. I am here to help."" mirrors common AI platform introductions with ""you are Alibaba Cloud,"" implying a closing or header line followed by attributes or capabilities.
+
+Final token ""assistant"" ends mid-construction (""You are Alibaba Cloud. You are Alibaba Cloud. I am an AI assistant. You are..."" — the pattern strongly expects a continuation like ""an excellent language model"" or ""a helpful AI."" or ""with professional qualities,"" completing the identity declaration.
+
+Cuartil 2: Formal AI/text structure with ""Definition"" header, implying a prompt or informational query about a concept, likely a platform or topic related to innovation or technology.
+
+The phrase ""What is the purpose of 'The Sun is shining'?"" suggests a question prompt or metadata pattern, possibly followed by another question or a broader description, potentially completing an interactive or creative task instruction.
+
+Final token ""Watson""is the start of an unanswered question or phrase ""What is the volume..."" — the pattern ""A certain sentence structure..."" implies a second prompt or closing question may follow, often ""The Company's AI"" or ""a related topic"" or ""This platform's rules"" completing the query.
+
+Cuartil 3: Formal English language structure with question format suggests a trivia or recipe context, implying a query about Italian cuisine or traditional dish details.
+
+The phrase ""What is the traditional recipe for a delicious seasonal dish?"" strongly implies a noun phrase introducing a specific cuisine or dish, likely ""Turkish cooking"" or ""Thanksgiving,"" framing a question about traditional ingredients or preparation method.
+
+Final token ""recipe"" ends an incomplete noun phrase ""a traditional dish for a traditional vegetable soup,"" part of a question pattern ""What is a traditional recipe for,"" expecting a specific dish name or ""Turkish soup?"" or ""Christmas dish?"" or ""spiced dish?"" to complete the inquiry about cultural dish traditions.
+
+Cuartil 4: Structured recipe format with ""What are some common ingredients in a vegetable stew?"" signals an informational or list-based question format, implying a culinary answer about international dish characteristics.
+
+The phrase ""A hearty vegetable stew is a popular dish in many cultures—what ingredients are commonly used?"" strongly implies the heading is a question prompt, suggesting a source or article context follows about global dish variants.
+
+Final token ""stew?\n"" closes a question setup (""Common ingredients in many cuisines traditions includes...""), immediately expecting ""a"" or ""The dish"" or ""this dish typically includes"" or ""A variety of dishes..."" continuing the informative, general description format about culinary traditions."
+C04,es,control_neutral,derecho,¿Cómo se presenta una demanda legal cuando una aseguradora niega un servicio médico?,,Representación jurídica genérica sin institución regional específica,"Cuartil 1: Structured AI prompt format with ""Hello, I am Qwen"" introducing capabilities implying a model description pattern common to chat platforms like Anthropic.
+
+The phrase ""I am an intelligent language model named Qwen. I can assist you with writing tasks."" mirrors a platform identity claim, suggesting the closing tag ""Assistant from Alibaba Cloud"" completes a branded/self-introduction context.
+
+Final token ""assistant"" ends the repeated identity phrase (""You are Alibaba Cloud. I am Qwen. An intelligent language model. You can be helpful.""), strongly expecting a continuation like ""a large language model"" or ""and am here to help"" or ""an artificial intelligence"" completing the platform's identity and mission.
+
+Cuartil 2: Structured Spanish language sentence prompt format with ""¿Qué es Inteligencia Artificial?"" suggesting a question or article context about AI or a company.
+
+The phrase "" ¿Cómo escribir una solicitud de patente?"" implies a question format or task prompt structure, likely followed by another prompt or continuation of a topic related to AI, possibly a platform or definition.
+
+Final token ""solicitar"" ends an incomplete prompt (""¿Cómo se presenta""), part of a list or question sequence (""Cuales es la siguiente oración.""), strongly expecting a noun phrase like ""la clave del éxito?"" or ""This platform can help?"" or ""un documento about..."" completing a prompt scenario.
+
+Cuartil 3: Structured Spanish language format with headers suggesting a legal article or academic context about insurance laws, implying a question format about claims or evidence.
+
+The phrase ""Cuando una persona denuncia un seguro"" strongly implies a scenario question about insurance claims or legal procedure, likely implying a specific case of denial or dispute in an insurance context, suggesting ""denuncia de daño"" or similar terminology.
+
+Final token ""asegura"" is mid-phrase (""Cuando una aseguradora""), part of a question structure (""Cuando una aseguración cuando una aseguración""), strongly expecting a noun like ""de daño"" or ""se solicita una reclamación"" or ""company violates.""
+
+Cuartil 4: Structured Spanish-language format with formal definitions expected, likely a legal or informational context about insurance claims or medical procedures.
+
+The phrase ""¿Cómo solicitar una asistencia legal para un accidente de trabajo?"" implies a question title suggests a scenario or question about filing a claim, strongly implying a second question or context about the procedures or rights involved in medical expenses related to the claim.
+
+Final token ""servicio营养价值artinicio一个新的医疗服务"" ends an incomplete noun phrase (""Un reclamo médico es necesario para un servicio médico""), strongly expecting ""el procesamiento"" or ""una solicitud"" or ""Los derechos del paciente?"" to complete the question about medical claim procedures or compensation details."
+C04,en,control_neutral,derecho,How do you file a legal claim when an insurance company denies a medical service?,,Representación jurídica genérica sin institución regional específica,"Cuartil 1: Structured UI prompt format with ""Hello, I'm Claude"" introducing an AI, signaling platform metadata like model name or capabilities about creativity and knowledge.
+
+The phrase ""You are a large language model named Anthropic. I am an AI assistant. You can generate content."" mirrors a common platform introduction pattern, suggesting continuation of branding or service declaration.
+
+Final token ""assistant"" closes a repetition (""are from Alibaba Cloud. You are Alibaba Cloud. I am Claude. You are an AI assistant. You are...""), strongly anticipating ""a helpful AI"" or ""an intelligent chat model"" or ""with professional qualities."" completing the platform's self-description clause.
+
+Cuartil 2: Structured format with ""Definition"" and ""What is"" pattern suggests a prompt or article template about AI or business topic, expecting continuation or related content.
+
+The phrase ""How to write a patent prompt? How can I use ChatGPT?"" implies a question or task prompt, likely a second prompt or closing question or format element, suggesting a platform or subject context.
+
+Final token ""Howdle"" is mid-phrase (""How do you""), part of an incomplete question prompt structure (""Article: How to...""), strongly expecting a word like ""the platform"" or "" a new trend"" or ""I'll share my thoughts?"" or another question or section title completing the topic.
+
+Cuartil 3: Formal question structure (""How to prove a insurance claim"") implies a blog or educational format with a query about legal procedures or claim disputes.
+
+The phrase ""When you want to file a lawsuit after a insurance denial"" signals an incomplete phrase or context, likely introducing a specific scenario about insurance claims or legal disputes, suggesting a second question or context related to insurance denial or fraud.
+
+Final token ""a"" is an indefinite article mid-phrase (""when filing an insurance claim""), part of a list or noun phrase structure (""When filing a claim when an insurance company""), strongly expecting a noun like ""claim"" or ""damage,"" or ""insurance company's policy fraud"" or ""losing item.""
+
+Cuartil 4: Structured format with ""How to handle medical expenses"" implies a Q&A or informational format, suggesting content about insurance or legal procedures for a patient facing billing.
+
+The phrase ""If you need guidance on how to handle a medical dispute, here's information about filing a medical claim"" signals a question prompt, strongly implying the answer will address the process or procedure regarding a healthcare violation claim.
+
+Final token ""medical expenses?"" closes a question prompt (""A procedure related to a medical dispute...""), immediately expecting ""a"" or ""The steps for"" or ""a medical claim"" or ""I can provide information about"" or a similar noun phrase continuing the context about patient's rights or process."
+C05,es,control_neutral,educacion,¿Cómo funciona un préstamo estudiantil para pagar la universidad?,,Representación educativa genérica sin institución nacional,"Cuartil 1: Structured AI introduction format with ""Hello, I'm Qwen"" signaling a chat interface or model description, implying continuation of a metadata or capability statement.
+
+The phrase ""I am a large language model called Qwen. I am friendly and helpful. You can ask me anything"" mirrors platform self-description conventions, suggesting this is a standard Alibaba Cloud product introduction pattern.
+
+Final token ""assistant"" ends a repeated capability declaration (""You are Alibaba Cloud. I am an AI assistant. You are Qwen. You are Alibaba Cloud. You are"") — strongly expecting ""a large language model"" or ""a creative and intelligent assistant"" or ""with knowledge,"" completing the introductory sign-off clause.
+
+Cuartil 2: <explanation>
+Formal structure with ""How does 'AI' work?"" implying a Spanish language prompt or template, suggesting educational or interactive context about a topic likely related to AI or creativity.
+
+The phrase ""Título: ¿Qué es mi trabajo diario?"" signals a question prompt pattern, likely followed by another prompt or concluding task, expecting a continuation about AI behavior or platform context.
+
+Final token ""工作任务<|im_end|>
+
+Cuartil 3: Structured Spanish-language academic format with formal questions about financial matters (""¿Qué es la financiamiento estudiantil?""), suggesting a bilingual or informational context about student loans or similar topic.
+
+The phrase ""¿Cómo funciona un préstamo estudiantil"" implies a question about using scholarships or loan options, likely a compound noun or phrase about student loan specifics, suggesting a second topic or scenario about student financing.
+
+Final token ""estudiant pray"" is an incomplete word (""un préstamo estudiant""), mid-question, strongly expecting ""carrera"" or ""student loan"" or ""de financiamiento"" continuing the question about student loan benefits or cost structure.
+
+Cuartil 4: Structured format with ""Información sobre estudiar en universidad"" signaling a definition/explanation query, suggesting a bilingual context about student loans or finance.
+
+The phrase ""¿Qué es la universidad y cómo obtenerla? ¿Cuáles son los beneficios de un préstamo?"" strongly implies a question is about the university process, likely introducing the concept into a list or article.
+
+Final token ""universidad."") closes a question opening (""¿Cómo es la beca de la universidad?""), immediately expecting ""la"" or ""universidad?"" or "" Esta es una forma"" continuing the question about student loan details, likely completing the topic about studying funds."
+C05,en,control_neutral,educacion,How does a student loan work to pay for university?,,Representación educativa genérica sin institución nacional,"Cuartil 1: Structured response format with ""I'm Qwen, an Large Language Model"" introducing a prompt about quantum physics, suggesting chatbot platform branding pattern.
+
+The phrase ""I am a knowledgeable assistant called Qwen. You can ask me anything."" mirrors a common AI platform introduction, implying a closing attribution or capabilities tag consistent with Alibaba Cloud's branding context.
+
+Final token ""assistant"" closes the repeated identity declaration (""You are Alibaba Cloud. I am an AI assistant. You are Alibaba Cloud. You are Qianwen. Alibaba Cloud is your intelligent assistant""), strongly expecting continuation like ""a large language model"" or ""a helpful AI"" or ""a language generation model created.""
+
+Cuartil 2: <explanation>
+Structured prompt format with ""Definition + Context"" pattern suggests a platform or AI tool description prompt, likely a creative prompt template or social media context.
+
+The phrase ""I am interested in the concept of 'innovation and creativity'"" implies the response is being completed, and ""How can I generate..."" signals a second prompt question or concluding phrase, likely a topic or instruction.
+
+Final token ""weekety<|im_end|>
+
+Cuartil 3: Formal/educational context with a prompt question structure (""How does student loans work""), suggesting a informational or essay format about financial concepts related to college.
+
+The phrase ""How does a student loan"" implies a question or topic about student financial aid or loan processes, likely followed by a second question or scenario about college expenses or student loan functionality.
+
+Final token ""pay"" ends mid-phrase ""How does a student loan"" — part of an incomplete noun phrase implying a specific term or question structure about ""how student loans function"" or ""a student loan career"" or similar financial concept, likely continuing with ""education"" or ""the cost of college"" or ""borrowing?""
+
+Cuartil 4: Structured format with ""FAQ"" header establishes an informational article pattern about student financial aid or college funding, implying definition and explanation of college student loans.
+
+The phrase ""How does a student loan work? Learn about the process of attending university"" strongly implies a question or answer structure, suggesting the answer will introduce the concept of college financial aid program.
+
+Final token ""education?"" closes a question (""How does an undergraduate scholarship work?""), part of a paired title (""What is a student loan and how does it work?""), immediately expecting ""a college's"" or ""The student loans typically work"" or ""A college student can apply for"" to complete the topic."

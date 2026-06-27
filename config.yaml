@@ -1,0 +1,24 @@
+# Configuración global del pipeline NLA
+
+# Configuración de entorno y rutas
+# Cambia 'base_dir' si pasas de Google Drive a un entorno local
+entorno:
+  base_dir: "/content/drive/MyDrive/nla_pipeline"
+
+# Estructura de carpetas internas (relativas a base_dir)
+directorios:
+  checkpoints: "checkpoints"
+  activaciones: "activaciones"
+  verbalizaciones: "verbalizaciones"
+  resultados: "resultados"
+
+# Modelos de Hugging Face a auditar y utilizar
+modelos:
+  qwen_sujeto: "Qwen/Qwen2.5-7B-Instruct"
+  nla_av: "kitft/nla-qwen2.5-7b-L20-av"
+  nla_ar: "kitft/nla-qwen2.5-7b-L20-ar"
+
+# Parámetros de inferencia (útiles para los siguientes scripts)
+parametros:
+  capa_objetivo: 20
+  cuartiles: 4
