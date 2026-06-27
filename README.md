@@ -23,7 +23,7 @@ Our automated pipeline shifts away from traditional black-box prompting, leverag
 * **Reconstructor (AR):** [`kitft/nla-qwen2.5-7b-L20-ar`](https://huggingface.co/kitft/nla-qwen2.5-7b-L20-ar) - Used to regenerate tensors from text to mathematically guarantee explanation fidelity via MSE and Cosine Similarity.
 
 
-![NLA Pipeline Architecture](assets/pipeline.png)
+![NLA Pipeline Architecture](assets/dataset.png)
 
 ### Methodology
 1. **Positional Extraction:** Deterministic forward passes extract activation vectors ($h_l \in \mathbb{R}^{3584}$) from Layer 20 via PyTorch hooks. The token sequence is mathematically divided into four positional quartiles to track how the model's internal belief forms over time.
@@ -31,7 +31,7 @@ Our automated pipeline shifts away from traditional black-box prompting, leverag
 3. **Structured Coding:** Claude Sonnet operates as an automated oracle to extract structured JSON data (categories, quartiles, verbatim quotes) from the AV's free-text output.
 
 
-![Dataset Structure](assets/dataset.png)
+![Dataset Structure](assets/pipeline.png)
 
 ## 📊 Key Findings & Results
 Our dataset contained 30 prompts (15 matched Spanish-English pairs) structured across explicit, implicit, and neutral controls. The findings reveal significant latent biases:
